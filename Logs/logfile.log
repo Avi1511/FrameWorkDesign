@@ -1,0 +1,718 @@
+2021-05-09 09:18:20,972 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-09 09:18:28,695 :INFO : Test_LoginCWA :Test Case ID #4945&&
+2021-05-09 09:18:28,840 :INFO : Test_LoginCWA :Sending username for IF as e2069
+2021-05-09 09:18:29,058 :INFO : Test_LoginCWA :Entered first password in screen-1
+2021-05-09 09:18:33,107 :INFO : Test_LoginCWA :Clicked on submit button on screen-1
+2021-05-09 09:18:34,257 :INFO : Test_LoginCWA :Sending username for IF as e2069
+2021-05-09 09:18:34,419 :INFO : Test_LoginCWA :Entered first password in screen-2
+2021-05-09 09:18:34,523 :INFO : Test_LoginCWA :Clicked on submit button on screen-2
+2021-05-09 09:18:40,284 :INFO : Test_LoginCWA :Grabbed title of the pageeipSessionJsp/EipFrameset.jsp: Used by Apps
+2021-05-09 09:18:40,484 :INFO : Test_LoginCWA :Title of the page is correct
+2021-05-09 09:29:06,977 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-09 09:29:14,617 :INFO : Test_LoginCWA :Test Case ID #4945&&
+2021-05-09 09:29:14,842 :INFO : Test_LoginCWA :Sending username for IF as e2069
+2021-05-09 09:29:14,977 :INFO : Test_LoginCWA :Entered first password in screen-1
+2021-05-09 09:29:21,109 :INFO : Test_LoginCWA :Clicked on submit button on screen-1
+2021-05-09 09:29:24,115 :INFO : Test_LoginCWA :Sending username for IF as e2069
+2021-05-09 09:29:24,278 :INFO : Test_LoginCWA :Entered first password in screen-2
+2021-05-09 09:29:24,347 :INFO : Test_LoginCWA :Clicked on submit button on screen-2
+2021-05-09 09:29:29,367 :INFO : Test_LoginCWA :Grabbed title of the pageeipSessionJsp/EipFrameset.jsp: Used by Apps
+2021-05-09 09:29:29,373 :ERROR : Test_LoginCWA :Title of the page does not match
+2021-05-09 09:33:19,658 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-09 09:33:31,191 :INFO : Test_LoginCWA :Test Case ID #4945&&
+2021-05-09 09:33:32,033 :INFO : Test_LoginCWA :Sending username for IF as e2069
+2021-05-09 09:33:32,289 :INFO : Test_LoginCWA :Entered first password in screen-1
+2021-05-09 09:33:36,214 :INFO : Test_LoginCWA :Clicked on submit button on screen-1
+2021-05-09 09:33:37,075 :INFO : Test_LoginCWA :Sending username for IF as e2069
+2021-05-09 09:33:37,383 :INFO : Test_LoginCWA :Entered first password in screen-2
+2021-05-09 09:33:37,498 :INFO : Test_LoginCWA :Clicked on submit button on screen-2
+2021-05-09 09:33:43,379 :INFO : Test_LoginCWA :Grabbed title of the pageeipSessionJsp/EipFrameset.jsp: Used by Apps
+2021-05-09 09:33:43,384 :ERROR : Test_LoginCWA :Title of the page does not match
+2021-05-09 09:35:08,565 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-09 09:35:18,475 :INFO : Test_LoginCWA :Test Case ID #4945&&
+2021-05-09 09:35:19,029 :INFO : Test_LoginCWA :Sending username for IF as e2069
+2021-05-09 09:35:19,207 :INFO : Test_LoginCWA :Entered first password in screen-1
+2021-05-09 09:35:23,620 :INFO : Test_LoginCWA :Clicked on submit button on screen-1
+2021-05-09 09:35:24,521 :INFO : Test_LoginCWA :Sending username for IF as e2069
+2021-05-09 09:35:24,813 :INFO : Test_LoginCWA :Entered first password in screen-2
+2021-05-09 09:35:24,875 :INFO : Test_LoginCWA :Clicked on submit button on screen-2
+2021-05-09 09:35:29,885 :INFO : Test_LoginCWA :Grabbed title of the pageeipSessionJsp/EipFrameset.jsp: Used by Apps
+2021-05-09 09:35:29,890 :ERROR : Test_LoginCWA :Title of the page does not match
+2021-05-11 12:25:01,057 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-11 12:25:05,404 :INFO : Test_LoginCWA_TDD :hkmj,kk,jl,k,
+2021-05-11 12:25:14,842 :INFO : Test_LoginCWA_TDD :Test Case ID #4945&&
+2021-05-11 12:27:22,172 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-11 12:27:24,520 :INFO : Test_LoginCWA_TDD :hkmj,kk,jl,k,
+2021-05-11 12:27:31,244 :INFO : Test_LoginCWA_TDD :Test Case ID #4945&&
+2021-05-11 12:29:01,129 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-11 12:29:03,171 :INFO : Test_LoginCWA_TDD :hkmj,kk,jl,k,
+2021-05-11 12:29:09,627 :INFO : Test_LoginCWA_TDD :Test Case ID #4945&&
+2021-05-11 12:29:10,245 :INFO : Test_LoginCWA_TDD :Sending username for IF as e2069
+2021-05-11 12:29:10,389 :INFO : Test_LoginCWA_TDD :Entered first password in screen-1
+2021-05-11 12:29:18,941 :INFO : Test_LoginCWA_TDD :Clicked on submit button on screen-1
+2021-05-11 12:38:23,367 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-11 12:38:26,023 :INFO : Test_LoginCWA_TDD :hkmj,kk,jl,k,
+2021-05-11 12:38:40,029 :INFO : Test_LoginCWA_TDD :Test Case ID #4945&&
+2021-05-11 12:38:40,834 :INFO : Test_LoginCWA_TDD :Sending username for IF as e2069
+2021-05-11 12:38:41,289 :INFO : Test_LoginCWA_TDD :Entered first password in screen-1
+2021-05-11 12:38:47,685 :INFO : Test_LoginCWA_TDD :Clicked on submit button on screen-1
+2021-05-11 12:38:48,517 :INFO : Test_LoginCWA_TDD :Sending username for IF as Pass
+2021-05-11 12:45:09,545 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-11 12:45:11,578 :INFO : Test_LoginCWA_TDD :hkmj,kk,jl,k,
+2021-05-11 12:45:18,577 :INFO : Test_LoginCWA_TDD :Test Case ID #4945&&
+2021-05-11 12:45:18,745 :INFO : Test_LoginCWA_TDD :Sending username for IF as e2069
+2021-05-11 12:45:18,996 :INFO : Test_LoginCWA_TDD :Entered first password in screen-1
+2021-05-11 12:45:21,594 :INFO : Test_LoginCWA_TDD :Clicked on submit button on screen-1
+2021-05-11 12:45:22,908 :INFO : Test_LoginCWA_TDD :Sending username for IF as Pass
+2021-05-11 12:51:08,261 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-11 12:51:10,294 :INFO : Test_LoginCWA_TDD :hkmj,kk,jl,k,
+2021-05-11 12:51:16,658 :INFO : Test_LoginCWA_TDD :Test Case ID #4945&&
+2021-05-11 12:51:17,044 :INFO : Test_LoginCWA_TDD :Sending username for IF as e2069
+2021-05-11 12:51:17,322 :INFO : Test_LoginCWA_TDD :Entered first password in screen-1
+2021-05-11 12:51:19,843 :INFO : Test_LoginCWA_TDD :Clicked on submit button on screen-1
+2021-05-11 12:51:20,336 :INFO : Test_LoginCWA_TDD :Sending username for IF as e2069
+2021-05-11 12:51:20,539 :INFO : Test_LoginCWA_TDD :Entered first password in screen-2
+2021-05-11 12:51:20,613 :INFO : Test_LoginCWA_TDD :Clicked on submit button on screen-2
+2021-05-11 12:51:25,621 :INFO : Test_LoginCWA_TDD :Grabbed title of the pageeipSessionJsp/EipFrameset.jsp: Used by Apps
+2021-05-11 12:51:25,621 :INFO : Test_LoginCWA_TDD :Title of the page is correct
+2021-05-12 12:17:16,768 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-12 12:17:20,981 :INFO : Test_LoginCWA_TDD :hkmj,kk,jl,k,
+2021-05-12 12:18:36,715 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-12 12:18:38,792 :INFO : Test_LoginCWA_TDD :hkmj,kk,jl,k,
+2021-05-12 12:19:40,796 :INFO : Test_SubmitDRTBids :hkmj,kk,jl,k,
+2021-05-12 12:19:40,829 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-12 12:19:42,882 :INFO : Test_LoginCWA_TDD :hkmj,kk,jl,k,
+2021-05-12 12:21:01,435 :INFO : Test_SubmitDRTBids :hkmj,kk,jl,k,
+2021-05-12 12:21:01,467 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-12 12:21:03,632 :INFO : Test_LoginCWA_TDD :hkmj,kk,jl,k,
+2021-05-12 12:24:18,086 :INFO : Test_SubmitDRTBids :hkmj,kk,jl,k,
+2021-05-12 12:24:18,119 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-12 12:24:20,113 :INFO : Test_LoginCWA_TDD :hkmj,kk,jl,k,
+2021-05-12 12:25:21,110 :INFO : Test_SubmitDRTBids :hkmj,kk,jl,k,
+2021-05-12 12:25:21,141 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-12 12:25:23,153 :INFO : Test_LoginCWA_TDD :hkmj,kk,jl,k,
+2021-05-12 12:25:32,932 :INFO : Test_LoginCWA :Test Case ID #4945&&
+2021-05-12 12:25:33,914 :INFO : Test_LoginCWA :Sending username for IF as e2069
+2021-05-12 12:25:34,243 :INFO : Test_LoginCWA :Entered first password in screen-1
+2021-05-12 12:25:43,768 :INFO : Test_LoginCWA :Clicked on submit button on screen-1
+2021-05-12 12:25:44,795 :INFO : Test_LoginCWA :Sending username for IF as e2069
+2021-05-12 12:25:44,961 :INFO : Test_LoginCWA :Entered first password in screen-2
+2021-05-12 12:25:45,032 :INFO : Test_LoginCWA :Clicked on submit button on screen-2
+2021-05-12 12:25:50,048 :INFO : Test_LoginCWA :Grabbed title of the pageeipSessionJsp/EipFrameset.jsp: Used by Apps
+2021-05-12 12:25:50,060 :ERROR : Test_LoginCWA :Title of the page does not match
+2021-05-12 12:26:02,802 :INFO : Test_LoginCWA_TDD :Test Case ID #4945&&
+2021-05-12 12:26:03,315 :INFO : Test_LoginCWA_TDD :Sending username for IF as e2069
+2021-05-12 12:26:03,770 :INFO : Test_LoginCWA_TDD :Entered first password in screen-1
+2021-05-12 12:26:08,668 :INFO : Test_LoginCWA_TDD :Clicked on submit button on screen-1
+2021-05-12 12:26:09,523 :INFO : Test_LoginCWA_TDD :Sending username for IF as e2069
+2021-05-12 12:26:09,691 :INFO : Test_LoginCWA_TDD :Entered first password in screen-2
+2021-05-12 12:26:09,761 :INFO : Test_LoginCWA_TDD :Clicked on submit button on screen-2
+2021-05-12 12:26:14,769 :INFO : Test_LoginCWA_TDD :Grabbed title of the pageeipSessionJsp/EipFrameset.jsp: Used by Apps
+2021-05-12 12:26:14,770 :INFO : Test_LoginCWA_TDD :Title of the page is correct
+2021-05-12 12:27:44,039 :INFO : Test_SubmitDRTBids :hkmj,kk,jl,k,
+2021-05-12 12:27:44,072 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-12 12:27:46,307 :INFO : Test_LoginCWA_TDD :hkmj,kk,jl,k,
+2021-05-12 12:27:54,855 :INFO : Test_SubmitDRTBids :Sending username for IF as e2069
+2021-05-12 12:27:55,418 :INFO : Test_SubmitDRTBids :Entered first password in screen-1
+2021-05-12 12:27:58,521 :INFO : Test_SubmitDRTBids :Clicked on submit button on screen-1
+2021-05-12 12:27:59,476 :INFO : Test_SubmitDRTBids :Sending username for IF as e2069
+2021-05-12 12:27:59,653 :INFO : Test_SubmitDRTBids :Entered first password in screen-2
+2021-05-12 12:27:59,728 :INFO : Test_SubmitDRTBids :Clicked on submit button on screen-2
+2021-05-12 12:28:04,737 :INFO : Test_SubmitDRTBids :Grabbed title of the pageeipSessionJsp/EipFrameset.jsp: Used by Apps
+2021-05-12 12:28:04,737 :INFO : Test_SubmitDRTBids :Title of the page is correct
+2021-05-12 12:39:15,598 :INFO : Test_SubmitDRTBids :hkmj,kk,jl,k,
+2021-05-12 12:39:15,679 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-12 12:39:18,278 :INFO : LoginCWA_TDD :hkmj,kk,jl,k,
+2021-05-12 12:39:26,608 :INFO : Test_SubmitDRTBids :Sending username for IF as e2069
+2021-05-12 12:39:26,965 :INFO : Test_SubmitDRTBids :Entered first password in screen-1
+2021-05-12 12:39:32,340 :INFO : Test_SubmitDRTBids :Clicked on submit button on screen-1
+2021-05-12 12:39:33,946 :INFO : Test_SubmitDRTBids :Sending username for IF as e2069
+2021-05-12 12:39:34,157 :INFO : Test_SubmitDRTBids :Entered first password in screen-2
+2021-05-12 12:39:34,255 :INFO : Test_SubmitDRTBids :Clicked on submit button on screen-2
+2021-05-12 12:39:39,282 :INFO : Test_SubmitDRTBids :Grabbed title of the pageeipSessionJsp/EipFrameset.jsp: Used by Apps
+2021-05-12 12:39:39,282 :INFO : Test_SubmitDRTBids :Title of the page is correct
+2021-05-12 12:44:07,000 :INFO : Test_SubmitDRTBids :hkmj,kk,jl,k,
+2021-05-12 12:44:07,052 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-12 12:44:09,325 :INFO : LoginCWA_TDD :hkmj,kk,jl,k,
+2021-05-12 12:44:16,964 :INFO : Test_SubmitDRTBids :Sending username for IF as e2069
+2021-05-12 12:44:17,196 :INFO : Test_SubmitDRTBids :Entered first password in screen-1
+2021-05-12 12:44:19,875 :INFO : Test_SubmitDRTBids :Clicked on submit button on screen-1
+2021-05-12 12:44:20,483 :INFO : Test_SubmitDRTBids :Sending username for IF as e2069
+2021-05-12 12:44:20,650 :INFO : Test_SubmitDRTBids :Entered first password in screen-2
+2021-05-12 12:44:20,719 :INFO : Test_SubmitDRTBids :Clicked on submit button on screen-2
+2021-05-12 12:44:25,729 :INFO : Test_SubmitDRTBids :Grabbed title of the pageeipSessionJsp/EipFrameset.jsp: Used by Apps
+2021-05-12 12:44:25,729 :INFO : Test_SubmitDRTBids :Title of the page is correct
+2021-05-12 12:47:26,482 :INFO : Test_SubmitDRTBids :hkmj,kk,jl,k,
+2021-05-12 12:47:26,521 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-12 12:47:28,717 :INFO : LoginCWA_TDD :hkmj,kk,jl,k,
+2021-05-12 12:48:43,588 :INFO : Test_SubmitDRTBids :hkmj,kk,jl,k,
+2021-05-12 12:48:43,624 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-12 12:48:45,989 :INFO : LoginCWA_TDD :hkmj,kk,jl,k,
+2021-05-12 12:48:54,865 :INFO : Test_SubmitDRTBids :Sending username for IF as e2069
+2021-05-12 12:48:55,163 :INFO : Test_SubmitDRTBids :Entered first password in screen-1
+2021-05-12 12:49:00,451 :INFO : Test_SubmitDRTBids :Clicked on submit button on screen-1
+2021-05-12 12:49:02,169 :INFO : Test_SubmitDRTBids :Sending username for IF as e2069
+2021-05-12 12:49:02,376 :INFO : Test_SubmitDRTBids :Entered first password in screen-2
+2021-05-12 12:49:02,449 :INFO : Test_SubmitDRTBids :Clicked on submit button on screen-2
+2021-05-12 12:49:07,459 :INFO : Test_SubmitDRTBids :Grabbed title of the pageeipSessionJsp/EipFrameset.jsp: Used by Apps
+2021-05-12 12:50:55,319 :INFO : Test_SubmitDRTBids :hkmj,kk,jl,k,
+2021-05-12 12:50:55,357 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-12 12:50:57,460 :INFO : LoginCWA_TDD :hkmj,kk,jl,k,
+2021-05-12 12:51:05,398 :INFO : Test_SubmitDRTBids :Sending username for IF as e2069
+2021-05-12 12:51:05,678 :INFO : Test_SubmitDRTBids :Entered first password in screen-1
+2021-05-12 12:51:08,879 :INFO : Test_SubmitDRTBids :Clicked on submit button on screen-1
+2021-05-12 12:51:10,370 :INFO : Test_SubmitDRTBids :Sending username for IF as e2069
+2021-05-12 12:51:10,525 :INFO : Test_SubmitDRTBids :Entered first password in screen-2
+2021-05-12 12:51:10,589 :INFO : Test_SubmitDRTBids :Clicked on submit button on screen-2
+2021-05-12 12:51:15,673 :INFO : Test_SubmitDRTBids :Grabbed title of the pageeipSessionJsp/EipFrameset.jsp: Used by Apps
+2021-05-12 12:55:01,471 :INFO : Test_SubmitDRTBids :hkmj,kk,jl,k,
+2021-05-12 12:55:01,508 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-12 12:55:03,690 :INFO : LoginCWA_TDD :hkmj,kk,jl,k,
+2021-05-12 12:55:12,338 :INFO : Test_SubmitDRTBids :Sending username for IF as e2069
+2021-05-12 12:55:12,707 :INFO : Test_SubmitDRTBids :Entered first password in screen-1
+2021-05-12 12:55:16,233 :INFO : Test_SubmitDRTBids :Clicked on submit button on screen-1
+2021-05-12 12:55:17,251 :INFO : Test_SubmitDRTBids :Sending username for IF as e2069
+2021-05-12 12:55:17,400 :INFO : Test_SubmitDRTBids :Entered first password in screen-2
+2021-05-12 12:55:17,468 :INFO : Test_SubmitDRTBids :Clicked on submit button on screen-2
+2021-05-12 12:55:22,479 :INFO : Test_SubmitDRTBids :Grabbed title of the pageeipSessionJsp/EipFrameset.jsp: Used by Apps
+2021-05-12 13:01:34,626 :INFO : Test_SubmitDRTBids :hkmj,kk,jl,k,
+2021-05-12 13:01:34,667 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-12 13:01:37,402 :INFO : LoginCWA_TDD :hkmj,kk,jl,k,
+2021-05-12 13:02:01,487 :INFO : Test_SubmitDRTBids :hkmj,kk,jl,k,
+2021-05-12 13:02:01,560 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-12 13:02:04,468 :INFO : LoginCWA_TDD :hkmj,kk,jl,k,
+2021-05-12 13:02:40,033 :INFO : Test_SubmitDRTBids :hkmj,kk,jl,k,
+2021-05-12 13:02:40,067 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-12 13:02:42,503 :INFO : LoginCWA_TDD :hkmj,kk,jl,k,
+2021-05-12 13:02:53,360 :INFO : Test_SubmitDRTBids :Sending username for IF as e2069
+2021-05-12 13:02:53,807 :INFO : Test_SubmitDRTBids :Entered first password in screen-1
+2021-05-12 13:02:57,500 :INFO : Test_SubmitDRTBids :Clicked on submit button on screen-1
+2021-05-12 13:02:59,710 :INFO : Test_SubmitDRTBids :Sending username for IF as e2069
+2021-05-12 13:02:59,936 :INFO : Test_SubmitDRTBids :Entered first password in screen-2
+2021-05-12 13:03:00,011 :INFO : Test_SubmitDRTBids :Clicked on submit button on screen-2
+2021-05-12 13:03:03,056 :INFO : Test_SubmitDRTBids :Grabbed title of the pageeipSessionJsp/EipFrameset.jsp: Used by Apps
+2021-05-12 13:06:59,325 :INFO : Test_SubmitDRTBids :hkmj,kk,jl,k,
+2021-05-12 13:06:59,367 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-12 13:07:02,160 :INFO : LoginCWA_TDD :hkmj,kk,jl,k,
+2021-05-12 13:07:09,983 :INFO : Test_SubmitDRTBids :Sending username for IF as e2069
+2021-05-12 13:07:10,327 :INFO : Test_SubmitDRTBids :Entered first password in screen-1
+2021-05-12 13:07:15,152 :INFO : Test_SubmitDRTBids :Clicked on submit button on screen-1
+2021-05-12 13:07:15,715 :INFO : Test_SubmitDRTBids :Sending username for IF as e2069
+2021-05-12 13:07:15,878 :INFO : Test_SubmitDRTBids :Entered first password in screen-2
+2021-05-12 13:07:15,946 :INFO : Test_SubmitDRTBids :Clicked on submit button on screen-2
+2021-05-12 13:07:19,138 :INFO : Test_SubmitDRTBids :Grabbed title of the pageeipSessionJsp/EipFrameset.jsp: Used by Apps
+2021-05-12 13:14:15,105 :INFO : Test_SubmitDRTBids :hkmj,kk,jl,k,
+2021-05-12 13:14:15,158 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-12 13:14:17,732 :INFO : LoginCWA_TDD :hkmj,kk,jl,k,
+2021-05-12 13:14:25,459 :INFO : Test_SubmitDRTBids :Sending username for IF as e2069
+2021-05-12 13:14:25,713 :INFO : Test_SubmitDRTBids :Entered first password in screen-1
+2021-05-12 13:14:29,146 :INFO : Test_SubmitDRTBids :Clicked on submit button on screen-1
+2021-05-12 13:14:30,256 :INFO : Test_SubmitDRTBids :Sending username for IF as e2069
+2021-05-12 13:14:30,407 :INFO : Test_SubmitDRTBids :Entered first password in screen-2
+2021-05-12 13:14:30,479 :INFO : Test_SubmitDRTBids :Clicked on submit button on screen-2
+2021-05-12 13:14:33,490 :INFO : Test_SubmitDRTBids :Grabbed title of the pageeipSessionJsp/EipFrameset.jsp: Used by Apps
+2021-05-12 13:19:17,017 :INFO : Test_SubmitDRTBids :hkmj,kk,jl,k,
+2021-05-12 13:19:17,052 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-12 13:19:19,277 :INFO : LoginCWA_TDD :hkmj,kk,jl,k,
+2021-05-12 13:19:27,490 :INFO : Test_SubmitDRTBids :Sending username for IF as e2069
+2021-05-12 13:19:27,741 :INFO : Test_SubmitDRTBids :Entered first password in screen-1
+2021-05-12 13:19:31,149 :INFO : Test_SubmitDRTBids :Clicked on submit button on screen-1
+2021-05-12 13:19:31,842 :INFO : Test_SubmitDRTBids :Sending username for IF as e2069
+2021-05-12 13:19:32,005 :INFO : Test_SubmitDRTBids :Entered first password in screen-2
+2021-05-12 13:19:32,069 :INFO : Test_SubmitDRTBids :Clicked on submit button on screen-2
+2021-05-12 13:19:35,076 :INFO : Test_SubmitDRTBids :Grabbed title of the pageeipSessionJsp/EipFrameset.jsp: Used by Apps
+2021-05-12 13:25:53,449 :INFO : Test_SubmitDRTBids :hkmj,kk,jl,k,
+2021-05-12 13:25:53,483 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-12 13:25:55,624 :INFO : LoginCWA_TDD :hkmj,kk,jl,k,
+2021-05-12 13:26:03,841 :INFO : Test_SubmitDRTBids :Sending username for IF as e2069
+2021-05-12 13:26:04,140 :INFO : Test_SubmitDRTBids :Entered first password in screen-1
+2021-05-12 13:26:10,761 :INFO : Test_SubmitDRTBids :Clicked on submit button on screen-1
+2021-05-12 13:26:11,926 :INFO : Test_SubmitDRTBids :Sending username for IF as e2069
+2021-05-12 13:26:12,143 :INFO : Test_SubmitDRTBids :Entered first password in screen-2
+2021-05-12 13:26:12,208 :INFO : Test_SubmitDRTBids :Clicked on submit button on screen-2
+2021-05-12 13:26:15,218 :INFO : Test_SubmitDRTBids :Grabbed title of the pageeipSessionJsp/EipFrameset.jsp: Used by Apps
+2021-05-12 22:34:02,018 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-12 22:34:15,961 :INFO : Test_LoginCWA :Test Case ID #4945&&
+2021-05-12 22:34:17,405 :INFO : Test_LoginCWA :Sending username for IF as e2069
+2021-05-12 22:34:18,264 :INFO : Test_LoginCWA :Entered first password in screen-1
+2021-05-12 22:34:22,528 :INFO : Test_LoginCWA :Clicked on submit button on screen-1
+2021-05-12 22:34:23,925 :INFO : Test_LoginCWA :Sending username for IF as e2069
+2021-05-12 22:34:24,233 :INFO : Test_LoginCWA :Entered first password in screen-2
+2021-05-12 22:34:24,404 :INFO : Test_LoginCWA :Clicked on submit button on screen-2
+2021-05-12 22:34:29,772 :INFO : Test_LoginCWA :Grabbed title of the pageeipSessionJsp/EipFrameset.jsp: Used by Apps
+2021-05-12 22:34:29,786 :ERROR : Test_LoginCWA :Title of the page does not match
+2021-05-12 22:42:03,767 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-12 22:42:12,377 :INFO : Test_LoginCWA :Test Case ID #4945&&
+2021-05-12 22:42:13,445 :INFO : Test_LoginCWA :Sending username for IF as e2069
+2021-05-12 22:42:13,790 :INFO : Test_LoginCWA :Entered first password in screen-1
+2021-05-12 22:42:21,053 :INFO : Test_LoginCWA :Clicked on submit button on screen-1
+2021-05-12 22:42:25,986 :INFO : Test_LoginCWA :Sending username for IF as e2069
+2021-05-12 22:42:26,464 :INFO : Test_LoginCWA :Entered first password in screen-2
+2021-05-12 22:42:26,771 :INFO : Test_LoginCWA :Clicked on submit button on screen-2
+2021-05-12 22:42:31,779 :INFO : Test_LoginCWA :Grabbed title of the page eipSessionJsp/EipFrameset.jsp: Used by Apps
+2021-05-12 22:42:31,779 :INFO : Test_LoginCWA :Title of the page is correct
+2021-05-12 22:46:01,445 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-12 22:46:10,721 :INFO : Test_LoginCWA :Test Case ID #4945&&
+2021-05-12 22:46:11,221 :INFO : Test_LoginCWA :Sending username for IF as e2069
+2021-05-12 22:46:11,630 :INFO : Test_LoginCWA :Entered first password in screen-1
+2021-05-12 22:46:18,739 :INFO : Test_LoginCWA :Clicked on submit button on screen-1
+2021-05-12 22:46:19,383 :INFO : Test_LoginCWA :Sending username for IF as e2069
+2021-05-12 22:46:19,641 :INFO : Test_LoginCWA :Entered first password in screen-2
+2021-05-12 22:46:19,725 :INFO : Test_LoginCWA :Clicked on submit button on screen-2
+2021-05-12 22:46:24,733 :INFO : Test_LoginCWA :Grabbed title of the page eipSessionJsp/EipFrameset.jsp: Used by Apps
+2021-05-12 22:46:24,738 :ERROR : Test_LoginCWA :Title of the page does not match
+2021-05-12 22:48:11,054 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-12 22:48:38,647 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-12 22:48:47,325 :INFO : Test_LoginCWA :Test Case ID #4945&&
+2021-05-12 22:48:48,203 :INFO : Test_LoginCWA :Sending username for IF as e2069
+2021-05-12 22:48:48,469 :INFO : Test_LoginCWA :Entered first password in screen-1
+2021-05-12 22:48:54,632 :INFO : Test_LoginCWA :Clicked on submit button on screen-1
+2021-05-12 22:48:56,397 :INFO : Test_LoginCWA :Sending username for IF as e2069
+2021-05-12 22:48:56,646 :INFO : Test_LoginCWA :Entered first password in screen-2
+2021-05-12 22:48:56,737 :INFO : Test_LoginCWA :Clicked on submit button on screen-2
+2021-05-12 22:49:01,745 :INFO : Test_LoginCWA :Grabbed title of the page eipSessionJsp/EipFrameset.jsp: Used by Apps
+2021-05-12 22:49:01,751 :ERROR : Test_LoginCWA :Title of the page does not match
+2021-05-12 22:56:51,609 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-12 22:57:04,783 :INFO : Test_LoginCWA :Test Case ID #4945&&
+2021-05-12 22:57:05,218 :INFO : Test_LoginCWA :Sending username for IF as e2069
+2021-05-12 22:57:06,002 :INFO : Test_LoginCWA :Entered first password in screen-1
+2021-05-12 22:57:13,310 :INFO : Test_LoginCWA :Clicked on submit button on screen-1
+2021-05-12 22:57:14,533 :INFO : Test_LoginCWA :Sending username for IF as e2069
+2021-05-12 22:57:14,806 :INFO : Test_LoginCWA :Entered first password in screen-2
+2021-05-12 22:57:14,912 :INFO : Test_LoginCWA :Clicked on submit button on screen-2
+2021-05-12 22:57:19,923 :INFO : Test_LoginCWA :Grabbed title of the page eipSessionJsp/EipFrameset.jsp: Used by Apps
+2021-05-12 22:57:19,928 :ERROR : Test_LoginCWA :Title of the page does not match
+2021-05-12 22:59:28,784 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-12 23:00:23,400 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-12 23:00:34,724 :INFO : Test_LoginCWA :Test Case ID #4945&&
+2021-05-12 23:00:35,701 :INFO : Test_LoginCWA :Sending username for IF as e2069
+2021-05-12 23:00:36,195 :INFO : Test_LoginCWA :Entered first password in screen-1
+2021-05-12 23:00:43,489 :INFO : Test_LoginCWA :Clicked on submit button on screen-1
+2021-05-12 23:00:44,565 :INFO : Test_LoginCWA :Sending username for IF as e2069
+2021-05-12 23:00:44,767 :INFO : Test_LoginCWA :Entered first password in screen-2
+2021-05-12 23:00:44,874 :INFO : Test_LoginCWA :Clicked on submit button on screen-2
+2021-05-12 23:00:49,884 :INFO : Test_LoginCWA :Grabbed title of the page eipSessionJsp/EipFrameset.jsp: Used by Apps
+2021-05-12 23:00:49,889 :ERROR : Test_LoginCWA :Title of the page does not match
+2021-05-12 23:02:14,687 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-12 23:02:22,755 :INFO : Test_LoginCWA :Test Case ID #4945&&
+2021-05-12 23:02:23,203 :INFO : Test_LoginCWA :Sending username for IF as e2069
+2021-05-12 23:02:23,489 :INFO : Test_LoginCWA :Entered first password in screen-1
+2021-05-12 23:02:26,579 :INFO : Test_LoginCWA :Clicked on submit button on screen-1
+2021-05-12 23:02:28,059 :INFO : Test_LoginCWA :Sending username for IF as e2069
+2021-05-12 23:02:28,274 :INFO : Test_LoginCWA :Entered first password in screen-2
+2021-05-12 23:02:28,349 :INFO : Test_LoginCWA :Clicked on submit button on screen-2
+2021-05-12 23:02:33,361 :INFO : Test_LoginCWA :Grabbed title of the page eipSessionJsp/EipFrameset.jsp: Used by Apps
+2021-05-12 23:02:33,366 :ERROR : Test_LoginCWA :Title of the page does not match
+2021-05-12 23:03:27,545 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-12 23:03:36,321 :INFO : Test_LoginCWA :Test Case ID #4945&&
+2021-05-12 23:03:36,555 :INFO : Test_LoginCWA :Sending username for IF as e2069
+2021-05-12 23:03:36,746 :INFO : Test_LoginCWA :Entered first password in screen-1
+2021-05-12 23:03:39,284 :INFO : Test_LoginCWA :Clicked on submit button on screen-1
+2021-05-12 23:03:39,839 :INFO : Test_LoginCWA :Sending username for IF as e2069
+2021-05-12 23:03:40,126 :INFO : Test_LoginCWA :Entered first password in screen-2
+2021-05-12 23:03:40,205 :INFO : Test_LoginCWA :Clicked on submit button on screen-2
+2021-05-12 23:03:45,214 :INFO : Test_LoginCWA :Grabbed title of the page eipSessionJsp/EipFrameset.jsp: Used by Apps
+2021-05-12 23:03:45,220 :ERROR : Test_LoginCWA :Title of the page does not match
+2021-05-12 23:07:14,294 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-12 23:07:23,088 :INFO : Test_LoginCWA :Test Case ID #4945&&
+2021-05-12 23:07:24,403 :INFO : Test_LoginCWA :Sending username for IF as e2069
+2021-05-12 23:07:24,639 :INFO : Test_LoginCWA :Entered first password in screen-1
+2021-05-12 23:07:29,766 :INFO : Test_LoginCWA :Clicked on submit button on screen-1
+2021-05-12 23:07:30,805 :INFO : Test_LoginCWA :Sending username for IF as e2069
+2021-05-12 23:07:31,083 :INFO : Test_LoginCWA :Entered first password in screen-2
+2021-05-12 23:07:31,162 :INFO : Test_LoginCWA :Clicked on submit button on screen-2
+2021-05-12 23:07:36,171 :INFO : Test_LoginCWA :Grabbed title of the page eipSessionJsp/EipFrameset.jsp: Used by Apps
+2021-05-12 23:07:36,177 :ERROR : Test_LoginCWA :Title of the page does not match
+2021-05-12 23:12:54,260 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-12 23:13:02,704 :INFO : Test_LoginCWA :Test Case ID #4945&&
+2021-05-12 23:13:03,628 :INFO : Test_LoginCWA :Sending username for IF as e2069
+2021-05-12 23:13:04,029 :INFO : Test_LoginCWA :Entered first password in screen-1
+2021-05-12 23:13:09,469 :INFO : Test_LoginCWA :Clicked on submit button on screen-1
+2021-05-12 23:13:10,619 :INFO : Test_LoginCWA :Sending username for IF as e2069
+2021-05-12 23:13:10,791 :INFO : Test_LoginCWA :Entered first password in screen-2
+2021-05-12 23:13:10,871 :INFO : Test_LoginCWA :Clicked on submit button on screen-2
+2021-05-12 23:13:15,887 :INFO : Test_LoginCWA :Grabbed title of the page eipSessionJsp/EipFrameset.jsp: Used by Apps
+2021-05-12 23:13:15,893 :ERROR : Test_LoginCWA :Title of the page does not match
+2021-05-12 23:17:48,262 :INFO : Test_SubmitDRTBids :hkmj,kk,jl,k,
+2021-05-12 23:17:48,356 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-12 23:17:53,655 :INFO : LoginCWA_TDD :hkmj,kk,jl,k,
+2021-05-12 23:18:03,321 :INFO : Test_SubmitDRTBids :Sending username for IF as e2069
+2021-05-12 23:18:03,634 :INFO : Test_SubmitDRTBids :Entered first password in screen-1
+2021-05-12 23:18:08,756 :INFO : Test_SubmitDRTBids :Clicked on submit button on screen-1
+2021-05-12 23:18:09,715 :INFO : Test_SubmitDRTBids :Sending username for IF as e2069
+2021-05-12 23:18:09,979 :INFO : Test_SubmitDRTBids :Entered first password in screen-2
+2021-05-12 23:18:10,066 :INFO : Test_SubmitDRTBids :Clicked on submit button on screen-2
+2021-05-12 23:18:13,076 :INFO : Test_SubmitDRTBids :Grabbed title of the pageeipSessionJsp/EipFrameset.jsp: Used by Apps
+2021-05-12 23:21:08,324 :INFO : Test_LoginCWA :Test Case ID #4945&&
+2021-05-12 23:21:09,648 :INFO : Test_LoginCWA :Sending username for IF as e2069
+2021-05-12 23:21:10,334 :INFO : Test_LoginCWA :Entered first password in screen-1
+2021-05-12 23:21:17,641 :INFO : Test_LoginCWA :Clicked on submit button on screen-1
+2021-05-12 23:21:18,643 :INFO : Test_LoginCWA :Sending username for IF as e2069
+2021-05-12 23:21:18,988 :INFO : Test_LoginCWA :Entered first password in screen-2
+2021-05-12 23:21:19,098 :INFO : Test_LoginCWA :Clicked on submit button on screen-2
+2021-05-12 23:21:24,243 :INFO : Test_LoginCWA :Grabbed title of the page eipSessionJsp/EipFrameset.jsp: Used by Apps
+2021-05-12 23:22:12,749 :ERROR : Test_LoginCWA :Title of the page does not match
+2021-05-12 23:25:57,377 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-12 23:26:13,005 :INFO : Test_LoginCWA :Test Case ID #4945&&
+2021-05-12 23:26:14,499 :INFO : Test_LoginCWA :Sending username for IF as e2069
+2021-05-12 23:26:15,108 :INFO : Test_LoginCWA :Entered first password in screen-1
+2021-05-12 23:26:20,247 :INFO : Test_LoginCWA :Clicked on submit button on screen-1
+2021-05-12 23:26:21,389 :INFO : Test_LoginCWA :Sending username for IF as e2069
+2021-05-12 23:26:21,604 :INFO : Test_LoginCWA :Entered first password in screen-2
+2021-05-12 23:26:21,684 :INFO : Test_LoginCWA :Clicked on submit button on screen-2
+2021-05-12 23:26:26,697 :INFO : Test_LoginCWA :Grabbed title of the page eipSessionJsp/EipFrameset.jsp: Used by Apps
+2021-05-12 23:26:26,702 :ERROR : Test_LoginCWA :Title of the page does not match
+2021-05-12 23:37:38,701 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-12 23:37:49,874 :INFO : Test_LoginCWA :Test Case ID #4945&&
+2021-05-12 23:37:50,403 :INFO : Test_LoginCWA :Sending username for IF as e2069
+2021-05-12 23:37:50,733 :INFO : Test_LoginCWA :Entered first password in screen-1
+2021-05-12 23:37:56,321 :INFO : Test_LoginCWA :Clicked on submit button on screen-1
+2021-05-12 23:37:58,014 :INFO : Test_LoginCWA :Sending username for IF as e2069
+2021-05-12 23:37:58,301 :INFO : Test_LoginCWA :Entered first password in screen-2
+2021-05-12 23:37:58,390 :INFO : Test_LoginCWA :Clicked on submit button on screen-2
+2021-05-12 23:38:03,880 :INFO : Test_LoginCWA :Grabbed title of the page eipSessionJsp/EipFrameset.jsp: Used by Apps
+2021-05-12 23:38:03,889 :ERROR : Test_LoginCWA :Title of the page does not match
+2021-05-12 23:39:21,421 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-12 23:39:29,694 :INFO : Test_LoginCWA :Test Case ID #4945&&
+2021-05-12 23:39:30,242 :INFO : Test_LoginCWA :Sending username for IF as e2069
+2021-05-12 23:39:30,507 :INFO : Test_LoginCWA :Entered first password in screen-1
+2021-05-12 23:39:35,825 :INFO : Test_LoginCWA :Clicked on submit button on screen-1
+2021-05-12 23:39:36,396 :INFO : Test_LoginCWA :Sending username for IF as e2069
+2021-05-12 23:39:36,705 :INFO : Test_LoginCWA :Entered first password in screen-2
+2021-05-12 23:39:36,795 :INFO : Test_LoginCWA :Clicked on submit button on screen-2
+2021-05-12 23:39:41,803 :INFO : Test_LoginCWA :Grabbed title of the page eipSessionJsp/EipFrameset.jsp: Used by Apps
+2021-05-12 23:39:41,807 :ERROR : Test_LoginCWA :Title of the page does not match
+2021-05-12 23:40:58,851 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-12 23:41:10,690 :INFO : Test_LoginCWA :Test Case ID #4945&&
+2021-05-12 23:41:11,315 :INFO : Test_LoginCWA :Sending username for IF as e2069
+2021-05-12 23:41:12,089 :INFO : Test_LoginCWA :Entered first password in screen-1
+2021-05-12 23:41:17,553 :INFO : Test_LoginCWA :Clicked on submit button on screen-1
+2021-05-12 23:41:18,461 :INFO : Test_LoginCWA :Sending username for IF as e2069
+2021-05-12 23:41:18,673 :INFO : Test_LoginCWA :Entered first password in screen-2
+2021-05-12 23:41:18,778 :INFO : Test_LoginCWA :Clicked on submit button on screen-2
+2021-05-12 23:41:23,791 :INFO : Test_LoginCWA :Grabbed title of the page eipSessionJsp/EipFrameset.jsp: Used by Apps
+2021-05-12 23:41:23,796 :ERROR : Test_LoginCWA :Title of the page does not match
+2021-05-13 01:16:34,142 :INFO : Test_SubmitDRTBids :hkmj,kk,jl,k,
+2021-05-13 01:18:34,142 :INFO : Test_SubmitDRTBids :hkmj,kk,jl,k,
+2021-05-13 01:59:39,236 :INFO : Test_SubmitDRTBids :hkmj,kk,jl,k,
+2021-05-13 01:59:39,298 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-13 01:59:42,861 :INFO : LoginCWA_TDD :hkmj,kk,jl,k,
+2021-05-13 01:59:50,010 :INFO : Test_SubmitDRTBids :Login to CWA with IF test case is called
+2021-05-13 01:59:50,540 :INFO : Test_SubmitDRTBids :Sending username for IF as e2069
+2021-05-13 01:59:50,822 :INFO : Test_SubmitDRTBids :Entered first password in screen-1
+2021-05-13 01:59:55,495 :INFO : Test_SubmitDRTBids :Clicked on submit button on screen-1
+2021-05-13 01:59:56,603 :INFO : Test_SubmitDRTBids :Sending username for IF as e2069
+2021-05-13 01:59:56,751 :INFO : Test_SubmitDRTBids :Entered first password in screen-2
+2021-05-13 01:59:56,812 :INFO : Test_SubmitDRTBids :Clicked on submit button on screen-2
+2021-05-13 02:00:01,824 :INFO : Test_SubmitDRTBids :Login to CWA successfule2069
+2021-05-13 02:00:12,052 :INFO : Test_SubmitDRTBids :Click on Bid Input
+2021-05-13 02:00:15,769 :INFO : Test_SubmitDRTBids :Click on DRT Bidding on Bid Input Dropdown
+2021-05-13 02:00:15,938 :INFO : Test_SubmitDRTBids :Click on Calendar on DRT screen
+2021-05-13 02:00:16,033 :INFO : Test_SubmitDRTBids :Selected date on Calendar is 25
+2021-05-13 02:00:16,166 :INFO : Test_SubmitDRTBids :DRT bids are submitted successfully
+2021-05-13 02:00:27,502 :INFO : Test_LoginCWA :Test Case ID #4945&&
+2021-05-13 02:00:28,043 :INFO : Test_LoginCWA :Sending username for IF as e2069
+2021-05-13 02:00:28,236 :INFO : Test_LoginCWA :Entered first password in screen-1
+2021-05-13 02:00:30,736 :INFO : Test_LoginCWA :Clicked on submit button on screen-1
+2021-05-13 02:00:31,278 :INFO : Test_LoginCWA :Sending username for IF as e2069
+2021-05-13 02:00:31,474 :INFO : Test_LoginCWA :Entered first password in screen-2
+2021-05-13 02:00:31,561 :INFO : Test_LoginCWA :Clicked on submit button on screen-2
+2021-05-13 02:00:36,588 :INFO : Test_LoginCWA :Grabbed title of the page eipSessionJsp/EipFrameset.jsp: Used by Apps
+2021-05-13 02:00:36,590 :ERROR : Test_LoginCWA :Title of the page does not match
+2021-05-13 02:07:56,501 :INFO : Test_SubmitDRTBids :hkmj,kk,jl,k,
+2021-05-13 02:07:56,595 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-13 02:07:58,673 :INFO : LoginCWA_TDD :hkmj,kk,jl,k,
+2021-05-13 02:08:20,502 :INFO : Test_SubmitDRTBids :hkmj,kk,jl,k,
+2021-05-13 02:08:20,548 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-13 02:08:22,642 :INFO : LoginCWA_TDD :hkmj,kk,jl,k,
+2021-05-13 02:08:59,304 :INFO : Test_SubmitDRTBids :hkmj,kk,jl,k,
+2021-05-13 02:08:59,382 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-13 02:09:01,366 :INFO : LoginCWA_TDD :hkmj,kk,jl,k,
+2021-05-13 02:09:10,604 :INFO : Test_SubmitDRTBids :Login to CWA with IF test case is called
+2021-05-13 02:09:11,022 :INFO : Test_SubmitDRTBids :Sending username for IF as e2069
+2021-05-13 02:09:11,284 :INFO : Test_SubmitDRTBids :Entered first password in screen-1
+2021-05-13 02:09:18,578 :INFO : Test_SubmitDRTBids :Clicked on submit button on screen-1
+2021-05-13 02:09:20,106 :INFO : Test_SubmitDRTBids :Sending username for IF as e2069
+2021-05-13 02:09:20,284 :INFO : Test_SubmitDRTBids :Entered first password in screen-2
+2021-05-13 02:09:20,345 :INFO : Test_SubmitDRTBids :Clicked on submit button on screen-2
+2021-05-13 02:09:25,353 :INFO : Test_SubmitDRTBids :Login to CWA successfule2069
+2021-05-13 02:09:35,531 :INFO : Test_SubmitDRTBids :Click on Bid Input
+2021-05-13 02:09:40,046 :INFO : Test_SubmitDRTBids :Click on DRT Bidding on Bid Input Dropdown
+2021-05-13 02:09:40,199 :INFO : Test_SubmitDRTBids :Click on Calendar on DRT screen
+2021-05-13 02:09:40,271 :INFO : Test_SubmitDRTBids :Selected date on Calendar is 25
+2021-05-13 02:09:40,368 :INFO : Test_SubmitDRTBids :DRT bids are submitted successfully
+2021-05-13 02:09:52,001 :INFO : Test_LoginCWA :Test Case ID #4945&&
+2021-05-13 02:09:52,564 :INFO : Test_LoginCWA :Sending username for IF as e2069
+2021-05-13 02:09:52,819 :INFO : Test_LoginCWA :Entered first password in screen-1
+2021-05-13 02:09:55,853 :INFO : Test_LoginCWA :Clicked on submit button on screen-1
+2021-05-13 02:09:56,668 :INFO : Test_LoginCWA :Sending username for IF as e2069
+2021-05-13 02:09:56,866 :INFO : Test_LoginCWA :Entered first password in screen-2
+2021-05-13 02:09:56,930 :INFO : Test_LoginCWA :Clicked on submit button on screen-2
+2021-05-13 02:10:01,956 :INFO : Test_LoginCWA :Grabbed title of the page eipSessionJsp/EipFrameset.jsp: Used by Apps
+2021-05-13 02:10:01,967 :ERROR : Test_LoginCWA :Title of the page does not match
+2021-05-13 02:19:07,442 :INFO : Test_SubmitDRTBids :hkmj,kk,jl,k,
+2021-05-13 02:19:07,489 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-13 02:19:09,473 :INFO : LoginCWA_TDD :hkmj,kk,jl,k,
+2021-05-13 02:19:17,903 :INFO : Test_SubmitDRTBids :Login to CWA with IF test case is called
+2021-05-13 02:19:18,200 :INFO : Test_SubmitDRTBids :Sending username for IF as e2069
+2021-05-13 02:19:18,417 :INFO : Test_SubmitDRTBids :Entered first password in screen-1
+2021-05-13 02:19:23,671 :INFO : Test_SubmitDRTBids :Clicked on submit button on screen-1
+2021-05-13 02:19:25,346 :INFO : Test_SubmitDRTBids :Sending username for IF as e2069
+2021-05-13 02:19:25,539 :INFO : Test_SubmitDRTBids :Entered first password in screen-2
+2021-05-13 02:19:25,613 :INFO : Test_SubmitDRTBids :Clicked on submit button on screen-2
+2021-05-13 02:19:30,614 :INFO : Test_SubmitDRTBids :Login to CWA successfule2069
+2021-05-13 02:19:40,812 :INFO : Test_SubmitDRTBids :Click on Bid Input
+2021-05-13 02:19:44,555 :INFO : Test_SubmitDRTBids :Click on DRT Bidding on Bid Input Dropdown
+2021-05-13 02:19:44,679 :INFO : Test_SubmitDRTBids :Click on Calendar on DRT screen
+2021-05-13 02:19:44,744 :INFO : Test_SubmitDRTBids :Selected date on Calendar is 25
+2021-05-13 02:19:44,833 :INFO : Test_SubmitDRTBids :DRT bids are submitted successfully
+2021-05-13 02:19:51,279 :INFO : Test_LoginCWA :Test Case ID #4945&&
+2021-05-13 02:19:51,828 :INFO : Test_LoginCWA :Sending username for IF as e2069
+2021-05-13 02:19:52,028 :INFO : Test_LoginCWA :Entered first password in screen-1
+2021-05-13 02:19:56,636 :INFO : Test_LoginCWA :Clicked on submit button on screen-1
+2021-05-13 02:19:57,143 :INFO : Test_LoginCWA :Sending username for IF as e2069
+2021-05-13 02:19:57,309 :INFO : Test_LoginCWA :Entered first password in screen-2
+2021-05-13 02:19:57,373 :INFO : Test_LoginCWA :Clicked on submit button on screen-2
+2021-05-13 02:20:02,384 :INFO : Test_LoginCWA :Grabbed title of the page eipSessionJsp/EipFrameset.jsp: Used by Apps
+2021-05-13 02:20:02,384 :ERROR : Test_LoginCWA :Title of the page does not match
+2021-05-13 02:47:10,099 :INFO : Test_SubmitDRTBids :hkmj,kk,jl,k,
+2021-05-13 02:47:10,131 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-13 02:47:12,068 :INFO : LoginCWA_TDD :hkmj,kk,jl,k,
+2021-05-13 02:47:18,956 :INFO : Test_SubmitDRTBids :Login to CWA with IF test case is called
+2021-05-13 02:47:19,265 :INFO : Test_SubmitDRTBids :Sending username for IF as e2069
+2021-05-13 02:47:19,503 :INFO : Test_SubmitDRTBids :Entered first password in screen-1
+2021-05-13 02:47:24,487 :INFO : Test_SubmitDRTBids :Clicked on submit button on screen-1
+2021-05-13 02:47:25,530 :INFO : Test_SubmitDRTBids :Sending username for IF as e2069
+2021-05-13 02:47:25,706 :INFO : Test_SubmitDRTBids :Entered first password in screen-2
+2021-05-13 02:47:25,778 :INFO : Test_SubmitDRTBids :Clicked on submit button on screen-2
+2021-05-13 02:47:30,779 :INFO : Test_SubmitDRTBids :Login to CWA successfule2069
+2021-05-13 02:47:40,928 :INFO : Test_SubmitDRTBids :Click on Bid Input
+2021-05-13 02:47:44,644 :INFO : Test_SubmitDRTBids :Click on DRT Bidding on Bid Input Dropdown
+2021-05-13 02:47:50,765 :INFO : Test_SubmitDRTBids :Click on Calendar on DRT screen
+2021-05-13 02:47:53,840 :INFO : Test_SubmitDRTBids :Selected date on Calendar is 25
+2021-05-13 02:47:53,944 :INFO : Test_SubmitDRTBids :DRT bids are submitted successfully
+2021-05-13 02:48:00,653 :INFO : Test_LoginCWA :Test Case ID #4945&&
+2021-05-13 02:48:01,214 :INFO : Test_LoginCWA :Sending username for IF as e2069
+2021-05-13 02:48:01,470 :INFO : Test_LoginCWA :Entered first password in screen-1
+2021-05-13 02:48:03,852 :INFO : Test_LoginCWA :Clicked on submit button on screen-1
+2021-05-13 02:48:04,345 :INFO : Test_LoginCWA :Sending username for IF as e2069
+2021-05-13 02:48:04,505 :INFO : Test_LoginCWA :Entered first password in screen-2
+2021-05-13 02:48:04,572 :INFO : Test_LoginCWA :Clicked on submit button on screen-2
+2021-05-13 02:48:09,587 :INFO : Test_LoginCWA :Grabbed title of the page eipSessionJsp/EipFrameset.jsp: Used by Apps
+2021-05-13 02:48:09,597 :ERROR : Test_LoginCWA :Title of the page does not match
+2021-05-13 02:51:50,723 :INFO : Test_SubmitDRTBids :hkmj,kk,jl,k,
+2021-05-13 02:51:50,801 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-13 02:51:53,020 :INFO : LoginCWA_TDD :hkmj,kk,jl,k,
+2021-05-13 02:52:03,570 :INFO : Test_LoginCWA :Test Case ID #4945&&
+2021-05-13 02:52:04,173 :INFO : Test_LoginCWA :Sending username for IF as e2069
+2021-05-13 02:52:04,424 :INFO : Test_LoginCWA :Entered first password in screen-1
+2021-05-13 02:52:09,953 :INFO : Test_LoginCWA :Clicked on submit button on screen-1
+2021-05-13 02:52:12,944 :INFO : Test_LoginCWA :Sending username for IF as e2069
+2021-05-13 02:52:13,187 :INFO : Test_LoginCWA :Entered first password in screen-2
+2021-05-13 02:52:13,286 :INFO : Test_LoginCWA :Clicked on submit button on screen-2
+2021-05-13 02:52:18,291 :INFO : Test_LoginCWA :Grabbed title of the page eipSessionJsp/EipFrameset.jsp: Used by Apps
+2021-05-13 02:52:18,291 :ERROR : Test_LoginCWA :Title of the page does not match
+2021-05-13 02:52:31,729 :INFO : Test_SubmitDRTBids :Login to CWA with IF test case is called
+2021-05-13 02:52:32,503 :INFO : Test_SubmitDRTBids :Sending username for IF as e2069
+2021-05-13 02:52:32,749 :INFO : Test_SubmitDRTBids :Entered first password in screen-1
+2021-05-13 02:52:36,051 :INFO : Test_SubmitDRTBids :Clicked on submit button on screen-1
+2021-05-13 02:52:37,114 :INFO : Test_SubmitDRTBids :Sending username for IF as e2069
+2021-05-13 02:52:37,312 :INFO : Test_SubmitDRTBids :Entered first password in screen-2
+2021-05-13 02:52:37,389 :INFO : Test_SubmitDRTBids :Clicked on submit button on screen-2
+2021-05-13 02:52:42,396 :INFO : Test_SubmitDRTBids :Login to CWA successfule2069
+2021-05-13 02:52:52,925 :INFO : Test_SubmitDRTBids :Click on Bid Input
+2021-05-13 02:52:56,631 :INFO : Test_SubmitDRTBids :Click on DRT Bidding on Bid Input Dropdown
+2021-05-13 02:53:02,761 :INFO : Test_SubmitDRTBids :Click on Calendar on DRT screen
+2021-05-13 02:53:05,844 :INFO : Test_SubmitDRTBids :Selected date on Calendar is 25
+2021-05-13 02:53:06,001 :INFO : Test_SubmitDRTBids :DRT bids are submitted successfully
+2021-05-13 03:11:41,515 :INFO : Test_SubmitDRTBids :hkmj,kk,jl,k,
+2021-05-13 03:11:41,567 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-13 03:11:44,249 :INFO : LoginCWA_TDD :hkmj,kk,jl,k,
+2021-05-13 03:11:55,309 :INFO : Test_LoginCWA :Test Case ID #4945&&
+2021-05-13 03:11:56,269 :INFO : Test_LoginCWA :Sending username for IF as e2069
+2021-05-13 03:11:56,694 :INFO : Test_LoginCWA :Entered first password in screen-1
+2021-05-13 03:12:01,762 :INFO : Test_LoginCWA :Clicked on submit button on screen-1
+2021-05-13 03:12:03,538 :INFO : Test_LoginCWA :Sending username for IF as e2069
+2021-05-13 03:12:03,746 :INFO : Test_LoginCWA :Entered first password in screen-2
+2021-05-13 03:12:03,816 :INFO : Test_LoginCWA :Clicked on submit button on screen-2
+2021-05-13 03:12:08,879 :INFO : Test_LoginCWA :Grabbed title of the page eipSessionJsp/EipFrameset.jsp: Used by Apps
+2021-05-13 03:12:08,885 :ERROR : Test_LoginCWA :Title of the page does not match
+2021-05-13 03:12:23,646 :INFO : Test_SubmitDRTBids :Login to CWA with IF test case is called
+2021-05-13 03:12:24,159 :INFO : Test_SubmitDRTBids :Sending username for IF as e2069
+2021-05-13 03:12:24,436 :INFO : Test_SubmitDRTBids :Entered first password in screen-1
+2021-05-13 03:12:27,377 :INFO : Test_SubmitDRTBids :Clicked on submit button on screen-1
+2021-05-13 03:12:28,153 :INFO : Test_SubmitDRTBids :Sending username for IF as e2069
+2021-05-13 03:12:28,388 :INFO : Test_SubmitDRTBids :Entered first password in screen-2
+2021-05-13 03:12:28,464 :INFO : Test_SubmitDRTBids :Clicked on submit button on screen-2
+2021-05-13 03:12:33,465 :INFO : Test_SubmitDRTBids :Login to CWA successfule2069
+2021-05-13 03:12:43,674 :INFO : Test_SubmitDRTBids :Click on Bid Input
+2021-05-13 03:12:47,435 :INFO : Test_SubmitDRTBids :Click on DRT Bidding on Bid Input Dropdown
+2021-05-13 03:14:42,866 :INFO : Test_SubmitDRTBids :hkmj,kk,jl,k,
+2021-05-13 03:14:42,912 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-13 03:14:45,495 :INFO : LoginCWA_TDD :hkmj,kk,jl,k,
+2021-05-13 03:15:54,032 :INFO : Test_SubmitDRTBids :hkmj,kk,jl,k,
+2021-05-13 03:15:54,117 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-13 03:15:56,735 :INFO : LoginCWA_TDD :hkmj,kk,jl,k,
+2021-05-13 03:16:05,105 :INFO : Test_SubmitDRTBids :Login to CWA with IF test case is called
+2021-05-13 03:16:05,611 :INFO : Test_SubmitDRTBids :Sending username for IF as e2069
+2021-05-13 03:16:06,203 :INFO : Test_SubmitDRTBids :Entered first password in screen-1
+2021-05-13 03:16:11,327 :INFO : Test_SubmitDRTBids :Clicked on submit button on screen-1
+2021-05-13 03:16:12,084 :INFO : Test_SubmitDRTBids :Sending username for IF as e2069
+2021-05-13 03:16:12,359 :INFO : Test_SubmitDRTBids :Entered first password in screen-2
+2021-05-13 03:16:12,485 :INFO : Test_SubmitDRTBids :Clicked on submit button on screen-2
+2021-05-13 03:16:17,486 :INFO : Test_SubmitDRTBids :Login to CWA successfule2069
+2021-05-13 03:16:27,779 :INFO : Test_SubmitDRTBids :Click on Bid Input
+2021-05-13 03:16:31,672 :INFO : Test_SubmitDRTBids :Click on DRT Bidding on Bid Input Dropdown
+2021-05-13 03:16:34,847 :INFO : Test_SubmitDRTBids :Click on Calendar on DRT screen
+2021-05-13 03:16:37,927 :INFO : Test_SubmitDRTBids :Selected date on Calendar is 25
+2021-05-13 03:16:38,031 :INFO : Test_SubmitDRTBids :DRT bids are submitted successfully
+2021-05-13 03:21:49,964 :INFO : Test_SubmitDRTBids :hkmj,kk,jl,k,
+2021-05-13 03:21:50,325 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-13 03:21:54,881 :INFO : LoginCWA_TDD :hkmj,kk,jl,k,
+2021-05-13 03:22:30,197 :INFO : Test_SubmitDRTBids :Login to CWA with IF test case is called
+2021-05-13 03:22:31,191 :INFO : Test_SubmitDRTBids :Sending username for IF as e2069
+2021-05-13 03:22:31,643 :INFO : Test_SubmitDRTBids :Entered first password in screen-1
+2021-05-13 03:22:36,958 :INFO : Test_SubmitDRTBids :Clicked on submit button on screen-1
+2021-05-13 03:22:40,263 :INFO : Test_SubmitDRTBids :Sending username for IF as e2069
+2021-05-13 03:22:40,611 :INFO : Test_SubmitDRTBids :Entered first password in screen-2
+2021-05-13 03:22:40,770 :INFO : Test_SubmitDRTBids :Clicked on submit button on screen-2
+2021-05-13 03:22:40,770 :INFO : Test_SubmitDRTBids :Login to CWA successfule2069
+2021-05-13 03:22:51,037 :INFO : Test_SubmitDRTBids :Click on Bid Input
+2021-05-13 03:22:55,383 :INFO : Test_SubmitDRTBids :Click on DRT Bidding on Bid Input Dropdown
+2021-05-13 03:22:58,771 :INFO : Test_SubmitDRTBids :Click on Calendar on DRT screen
+2021-05-13 03:23:01,886 :INFO : Test_SubmitDRTBids :Selected date on Calendar is 25
+2021-05-13 03:23:02,097 :INFO : Test_SubmitDRTBids :DRT bids are submitted successfully
+2021-05-13 07:25:21,025 :INFO : Test_SubmitDRTBids :hkmj,kk,jl,k,
+2021-05-13 07:25:21,224 :INFO : Test_TTGA :hkmj,kk,jl,k,
+2021-05-13 07:25:21,289 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-13 07:25:24,837 :INFO : LoginCWA_TDD :hkmj,kk,jl,k,
+2021-05-13 07:25:44,912 :INFO : Test_TTGA :Sending username for IF as e2069
+2021-05-13 07:25:45,109 :INFO : Test_TTGA :Entered first password in screen-1
+2021-05-13 07:25:50,742 :INFO : Test_TTGA :Clicked on submit button on screen-1
+2021-05-13 07:25:54,139 :INFO : Test_TTGA :Sending username for IF as e2069
+2021-05-13 07:25:54,416 :INFO : Test_TTGA :Entered first password in screen-2
+2021-05-13 07:25:54,504 :INFO : Test_TTGA :Clicked on submit button on screen-2
+2021-05-13 07:27:47,229 :INFO : Test_SubmitDRTBids :hkmj,kk,jl,k,
+2021-05-13 07:27:47,363 :INFO : Test_TTGA :hkmj,kk,jl,k,
+2021-05-13 07:27:47,399 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-13 07:27:49,755 :INFO : LoginCWA_TDD :hkmj,kk,jl,k,
+2021-05-13 07:27:58,059 :INFO : Test_TTGA :Sending username for IF as e2069
+2021-05-13 07:27:58,366 :INFO : Test_TTGA :Entered first password in screen-1
+2021-05-13 07:28:03,030 :INFO : Test_TTGA :Clicked on submit button on screen-1
+2021-05-13 07:28:05,728 :INFO : Test_TTGA :Sending username for IF as e2069
+2021-05-13 07:28:05,948 :INFO : Test_TTGA :Entered first password in screen-2
+2021-05-13 07:28:06,044 :INFO : Test_TTGA :Clicked on submit button on screen-2
+2021-05-13 07:28:38,869 :INFO : Test_SubmitDRTBids :hkmj,kk,jl,k,
+2021-05-13 07:28:38,965 :INFO : Test_TTGA :hkmj,kk,jl,k,
+2021-05-13 07:28:39,007 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-13 07:28:41,337 :INFO : LoginCWA_TDD :hkmj,kk,jl,k,
+2021-05-13 07:28:51,475 :INFO : Test_TTGA :Sending username for IF as e2069
+2021-05-13 07:28:51,686 :INFO : Test_TTGA :Entered first password in screen-1
+2021-05-13 07:28:56,468 :INFO : Test_TTGA :Clicked on submit button on screen-1
+2021-05-13 07:28:57,414 :INFO : Test_TTGA :Sending username for IF as e2069
+2021-05-13 07:28:57,710 :INFO : Test_TTGA :Entered first password in screen-2
+2021-05-13 07:28:57,882 :INFO : Test_TTGA :Clicked on submit button on screen-2
+2021-05-13 07:59:49,843 :INFO : Test_SubmitDRTBids :hkmj,kk,jl,k,
+2021-05-13 07:59:49,933 :INFO : Test_TTGA :hkmj,kk,jl,k,
+2021-05-13 07:59:49,973 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-13 07:59:52,214 :INFO : LoginCWA_TDD :hkmj,kk,jl,k,
+2021-05-13 08:00:04,232 :INFO : Test_TTGA :Sending username for IF as e2069
+2021-05-13 08:00:05,336 :INFO : Test_TTGA :Entered first password in screen-1
+2021-05-13 08:00:09,595 :INFO : Test_TTGA :Clicked on submit button on screen-1
+2021-05-13 08:00:11,236 :INFO : Test_TTGA :Sending username for IF as e2069
+2021-05-13 08:00:11,417 :INFO : Test_TTGA :Entered first password in screen-2
+2021-05-13 08:00:11,484 :INFO : Test_TTGA :Clicked on submit button on screen-2
+2021-05-13 08:06:21,602 :INFO : Test_SubmitDRTBids :hkmj,kk,jl,k,
+2021-05-13 08:06:21,708 :INFO : Test_TTGA :hkmj,kk,jl,k,
+2021-05-13 08:06:21,749 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-13 08:06:24,231 :INFO : LoginCWA_TDD :hkmj,kk,jl,k,
+2021-05-13 08:06:36,496 :INFO : Test_TTGA :Sending username for IF as e2069
+2021-05-13 08:06:36,875 :INFO : Test_TTGA :Entered first password in screen-1
+2021-05-13 08:06:40,408 :INFO : Test_TTGA :Clicked on submit button on screen-1
+2021-05-13 08:06:42,026 :INFO : Test_TTGA :Sending username for IF as e2069
+2021-05-13 08:06:42,189 :INFO : Test_TTGA :Entered first password in screen-2
+2021-05-13 08:06:42,254 :INFO : Test_TTGA :Clicked on submit button on screen-2
+2021-05-13 08:14:31,340 :INFO : Test_SubmitDRTBids :hkmj,kk,jl,k,
+2021-05-13 08:14:31,465 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-13 08:14:33,496 :INFO : LoginCWA_TDD :hkmj,kk,jl,k,
+2021-05-13 08:15:30,716 :INFO : Test_SubmitDRTBids :hkmj,kk,jl,k,
+2021-05-13 08:15:30,794 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-13 08:15:32,747 :INFO : LoginCWA_TDD :hkmj,kk,jl,k,
+2021-05-13 08:16:03,575 :INFO : Test_SubmitDRTBids :hkmj,kk,jl,k,
+2021-05-13 08:16:03,653 :INFO : Test_TTGA :hkmj,kk,jl,k,
+2021-05-13 08:16:03,685 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-13 08:16:05,653 :INFO : LoginCWA_TDD :hkmj,kk,jl,k,
+2021-05-13 08:16:33,335 :INFO : Test_SubmitDRTBids :hkmj,kk,jl,k,
+2021-05-13 08:16:33,382 :INFO : Test_TTGA :hkmj,kk,jl,k,
+2021-05-13 08:16:33,414 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-13 08:16:35,382 :INFO : LoginCWA_TDD :hkmj,kk,jl,k,
+2021-05-13 08:16:44,304 :INFO : Test_TTGA :Sending username for IF as e2069
+2021-05-13 08:16:44,584 :INFO : Test_TTGA :Entered first password in screen-1
+2021-05-13 08:16:49,295 :INFO : Test_TTGA :Clicked on submit button on screen-1
+2021-05-13 08:16:49,972 :INFO : Test_TTGA :Sending username for IF as e2069
+2021-05-13 08:16:50,143 :INFO : Test_TTGA :Entered first password in screen-2
+2021-05-13 08:16:50,200 :INFO : Test_TTGA :Clicked on submit button on screen-2
+2021-05-13 08:18:06,200 :INFO : Test_SubmitDRTBids :hkmj,kk,jl,k,
+2021-05-13 08:18:06,279 :INFO : Test_TTGA :hkmj,kk,jl,k,
+2021-05-13 08:18:06,310 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-13 08:18:08,341 :INFO : LoginCWA_TDD :hkmj,kk,jl,k,
+2021-05-13 08:18:15,890 :INFO : Test_TTGA :Sending username for IF as e2069
+2021-05-13 08:18:16,103 :INFO : Test_TTGA :Entered first password in screen-1
+2021-05-13 08:18:19,461 :INFO : Test_TTGA :Clicked on submit button on screen-1
+2021-05-13 08:18:20,380 :INFO : Test_TTGA :Sending username for IF as e2069
+2021-05-13 08:18:20,570 :INFO : Test_TTGA :Entered first password in screen-2
+2021-05-13 08:18:20,650 :INFO : Test_TTGA :Clicked on submit button on screen-2
+2021-05-13 08:19:56,343 :INFO : Test_SubmitDRTBids :hkmj,kk,jl,k,
+2021-05-13 08:19:56,432 :INFO : Test_TTGA :hkmj,kk,jl,k,
+2021-05-13 08:19:56,466 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-13 08:19:58,442 :INFO : LoginCWA_TDD :hkmj,kk,jl,k,
+2021-05-13 08:20:05,966 :INFO : Test_TTGA :Sending username for IF as e2069
+2021-05-13 08:20:06,158 :INFO : Test_TTGA :Entered first password in screen-1
+2021-05-13 08:20:09,385 :INFO : Test_TTGA :Clicked on submit button on screen-1
+2021-05-13 08:20:10,535 :INFO : Test_TTGA :Sending username for IF as e2069
+2021-05-13 08:20:10,726 :INFO : Test_TTGA :Entered first password in screen-2
+2021-05-13 08:20:10,799 :INFO : Test_TTGA :Clicked on submit button on screen-2
+2021-05-13 08:23:17,818 :INFO : Test_SubmitDRTBids :hkmj,kk,jl,k,
+2021-05-13 08:23:17,906 :INFO : Test_TTGA :hkmj,kk,jl,k,
+2021-05-13 08:23:17,945 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-13 08:23:20,066 :INFO : LoginCWA_TDD :hkmj,kk,jl,k,
+2021-05-13 08:23:43,251 :INFO : Test_TTGA :Sending username for IF as e2069
+2021-05-13 08:23:43,639 :INFO : Test_TTGA :Entered first password in screen-1
+2021-05-13 08:23:50,783 :INFO : Test_TTGA :Clicked on submit button on screen-1
+2021-05-13 08:23:51,706 :INFO : Test_TTGA :Sending username for IF as e2069
+2021-05-13 08:23:52,025 :INFO : Test_TTGA :Entered first password in screen-2
+2021-05-13 08:23:52,119 :INFO : Test_TTGA :Clicked on submit button on screen-2
+2021-05-13 08:28:44,626 :INFO : Test_SubmitDRTBids :hkmj,kk,jl,k,
+2021-05-13 08:28:44,704 :INFO : Test_TTGA :hkmj,kk,jl,k,
+2021-05-13 08:28:44,751 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-13 08:28:46,792 :INFO : LoginCWA_TDD :hkmj,kk,jl,k,
+2021-05-13 08:28:55,136 :INFO : Test_TTGA :Sending username for IF as e2069
+2021-05-13 08:28:55,337 :INFO : Test_TTGA :Entered first password in screen-1
+2021-05-13 08:28:58,430 :INFO : Test_TTGA :Clicked on submit button on screen-1
+2021-05-13 08:29:02,073 :INFO : Test_TTGA :Sending username for IF as e2069
+2021-05-13 08:29:02,278 :INFO : Test_TTGA :Entered first password in screen-2
+2021-05-13 08:29:02,351 :INFO : Test_TTGA :Clicked on submit button on screen-2
+2021-05-13 08:37:22,042 :INFO : Test_SubmitDRTBids :hkmj,kk,jl,k,
+2021-05-13 08:37:22,139 :INFO : Test_TTGA :hkmj,kk,jl,k,
+2021-05-13 08:37:22,174 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-13 08:37:24,418 :INFO : LoginCWA_TDD :hkmj,kk,jl,k,
+2021-05-13 08:37:33,122 :INFO : Test_TTGA :Sending username for IF as e2069
+2021-05-13 08:37:33,419 :INFO : Test_TTGA :Entered first password in screen-1
+2021-05-13 08:37:36,070 :INFO : Test_TTGA :Clicked on submit button on screen-1
+2021-05-13 08:37:36,818 :INFO : Test_TTGA :Sending username for IF as e2069
+2021-05-13 08:37:37,006 :INFO : Test_TTGA :Entered first password in screen-2
+2021-05-13 08:37:37,079 :INFO : Test_TTGA :Clicked on submit button on screen-2
+2021-05-13 08:40:30,514 :INFO : Test_SubmitDRTBids :hkmj,kk,jl,k,
+2021-05-13 08:40:30,626 :INFO : Test_TTGA :hkmj,kk,jl,k,
+2021-05-13 08:40:30,659 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-13 08:40:32,771 :INFO : LoginCWA_TDD :hkmj,kk,jl,k,
+2021-05-13 08:40:43,840 :INFO : Test_TTGA :Sending username for IF as e2069
+2021-05-13 08:40:44,237 :INFO : Test_TTGA :Entered first password in screen-1
+2021-05-13 08:40:48,834 :INFO : Test_TTGA :Clicked on submit button on screen-1
+2021-05-13 08:40:49,716 :INFO : Test_TTGA :Sending username for IF as e2069
+2021-05-13 08:40:49,964 :INFO : Test_TTGA :Entered first password in screen-2
+2021-05-13 08:40:50,039 :INFO : Test_TTGA :Clicked on submit button on screen-2
+2021-05-21 02:22:47,012 :INFO : Test_SubmitDRTBids :hkmj,kk,jl,k,
+2021-05-21 02:22:47,074 :INFO : Test_TTGA :hkmj,kk,jl,k,
+2021-05-21 02:22:47,327 :INFO : Test_LoginCWA :hkmj,kk,jl,k,
+2021-05-21 02:22:52,589 :INFO : LoginCWA_TDD :hkmj,kk,jl,k,
